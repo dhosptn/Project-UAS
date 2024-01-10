@@ -18,7 +18,7 @@ import sys
 total = []
 
 print("--------------------------")
-print("KASIR UNIVERSITAS PELITA BANGSA")
+print("         Kasir Ardho      ")
 print("-------------------------------")
 
 def daftar_barang():
@@ -118,7 +118,7 @@ def daftar_barang():
     Input harga makanan: 50000
     Input nama makanan (ketik 'selesai' untuk mengakhiri): selesai
 
-KASIR UNIVERSITAS PELITA BANGSA
+             Kasir Ardho
 -------------------------------
 | No |  Makanan/Minuman   | Harga |
 -------------------------------
